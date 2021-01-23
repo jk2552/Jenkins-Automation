@@ -3,6 +3,6 @@
 int main(){
 
 	printf("Welcome to the jenkins automation\n");
-	printf("Hello automation world\n");
+	printf("Hello world\n");
 	return 0;
 }
